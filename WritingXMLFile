@@ -1,0 +1,8 @@
+
+<Suite name = "Smoke Test"?
+  <test name = "Smoke TestCases">
+  <Classes>
+    <Class name = "testingfiles.annot2"/>
+    </Classes>
+  </test>
+  </suite>
