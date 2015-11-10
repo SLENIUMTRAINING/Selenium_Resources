@@ -1,0 +1,414 @@
+
+SUMMARY:	9+ years of experience in Quality Assurance Life Cycle (QALC), from requirement analysis to User acceptance Testing and good knowledge of Software Development Life Cycle (SDLC) implementing Waterfall, Agile Scrum methodologies.  Extensive experience with Software Quality Assurance Testing on GUI based Client/Server and Web Based applications Using Manual and Automated Testing procedures
+•	Created Test Plan, wrote and executed test cases and test scripts and prepared defect tracking documents
+•	Working experience in both Manual Testing and Automated Testing using software such as QualityCenter and hands-on ALM and QuickTestPro (QTP)
+•	Performed extensive EDI testing on X12/5010 837, 834, 835, 270 etc; worked with state vendor ACS to validate inbound /outbound EDI transactions 
+•	Experience in Selenium IDE, Selenium WebDriver for open source web testing
+•	Developed UI automation for Android and iOS mobile applications, tested enrollment and claim process for various Android and iPhone applications
+•	Experienced in developing VBScripts for Functional and Regression Testing of applications with varied data and also developing QTP scripts using descriptive programming VBScript
+•	Executed SQL statements to check if the data integrity has been maintained and tested the data flow from end to end and used My SQL server, Toad to run the queries to extract the data from the database.
+
+
+
+SOFTWARE/	Microsoft Technologies - MS Project, Excel, Word, Outlook, PowerPoint
+LANGUAGES:	Testing Tools - QuickTestPro (QTP), Ultra Edit 16.0, SpecBuilder 7.0.8, Selenium 
+Defect Management - QualityCenter 10.0, ALM 
+Languages - UNIX, HTML
+Other Tools - FileZilla, WinSCP, Transaction Manager
+
+O/S:	Mainframe - IBM AS 400
+
+DATABASES:	Oracle, MS SQL	
+
+
+ 
+ASSIGNMENTS:
+
+
+Quality Analyst
+Responsibilities included interaction with client, plan validation, working on Medicaid and Medicare, and validating drug and GPI and NDC for different types of clients.  Interacted with team leads and logged issues in defect tracker. 
+•	Reviewed CRD, CPM and different types of drug documentation for different types of clients 
+•	Validated customer location, member eligibility, GPI and NDC list, pharmacy network co-pay structure Troop and refill limits and pricing  using Mainframe system 
+•	Performed integration and regression testing on plans using IBM AS400 Mainframe system and tested in Preproduction and Production environments 
+•	Used Rx query to pull all the data for different types of clients 
+•	Interacted with the Client and BRM for issues and defects and closed the issues, under the supervision of the team lead 
+•	Tested drug and customer information on Android mobile devices and emulators
+•	Created reusable methods for test automation using Selenium WebDriver
+•	Developed automation scripts for Regression using Selenium WebDriver
+•	Tested Web Services using Soap UI Pro for Rest services
+•	Logged defect in CVS defect tracker and coordinated with BRM on the issues 
+•	Worked on TBGT, Easy Test tool and RX claims system 
+•	Provided regular updates to the manager and lead, with daily status report on the project 
+•	Used EZ query to pull query output for different types of plans and validated them in RX system 
+•	Develop UI automation for node.js / angular.js-based web applications using Selenium WebDriver, developed in node.js / JavaScript
+•	Developed UI automation for Android and iOS mobile applications
+•	Integrated automated testing with Bamboo CI and Sauce Labs cloud-based test execution
+    Environment: CVS Defect Tracker, HIPAA, MS Word, MS Project, MS Excel, IBM AS400 Mainframe
+
+
+
+Quality Analyst
+Responsible for validation and testing of claims workflow into interchange environment.  Worked with the client on multiple projects, including Claims and Encounters, DSNIP and MCO.  Handled requests from business analysts and improved test plans, wrote test cases and used QualityCenter for execution.
+•	Reviewed business requirements and prepared test plan and test cases accordingly. 
+•	Executed and validated the claim process scenario based on the business requirement documents.
+•	Created test plan, wrote and executed test cases and test scripts and prepared defect tracking documents.
+•	Tested enrollment and claim process for various Android and iPhone applications.
+•	Used QualityCenter for loading and executing the test cases related to the desired requirements, and for logging and tracking the defects related to any of the requirements.
+•	Wrote automated test cases in Java / JUnit 4 and Selenium for telnet, REST web services, web UI, and Android UI
+•	Performed Smoke, Integration, Regression, E2E Testing, and UAT. 
+•	Created files in X12, CSV and HTML formats, based on the system requirements; extensively used UltraEdit. 
+•	Performed extensive EDI testing on X12 / 5010 837,834, 835, 270 etc., and worked with state vendor ACS to validate inbound /outbound EDI transactions to Facets. 
+•	Tested the HIPAA EDI transactions 834, 837/835, 276/277, 270/271 according to the test requirement. 
+•	Prepared preliminary and revised estimates for different claims requests. 
+•	Conducted and participated in Work Product Review Meetings for BSD, test plan and test cases. 
+•	Prepared run sheets to run the X12 files and XML in different test environments. 
+•	Worked on different types of paper claims for validation and testing. 
+•	Coordinated with the Production Control Team to resolve the issues and log items.
+•	Assisted and worked on projects such as DSNIP and MCO transfer. 
+•	Attended daily stand up and release meetings. 
+•	Executed SQL statements to ensure the data integrity was maintained and tested the data flow from end to end.  Used MySQL server and Toad to run the queries to extract the data from the database.
+Environment: QualityCenter, SQL, UltraEdit, SpecBuilder, Transaction Manager, HIPAA / EDI, MS Word, MS Project, MS Excel
+
+
+QA Tester
+This HIPAA-compliant system included packages such as Electronic Statement, Electronic Claims Billing, and Eligibility Verification and features such as Advance Appointment Scheduler, Eligibility Verification and Referral Tracking.
+•	Reviewed business requirements and prepared the test plan and test cases accordingly. 
+•	Executed and validated the claim and encounter process scenario, based on the business requirement documents.
+•	Created the test plan, wrote and executed test cases and test scripts, and prepared defect tracking documents.
+•	Used QualityCenter for loading and executing the test cases related to the desired requirements and for logging and tracking the defects related to any of the requirements.
+•	Performed Functional and GUI testing on Facets
+•	Performed Smoke, Integration, Regression and E2E Testing and UAT. 
+•	Created files in X12, CSV and HTML formats, based on the system requirements; also used UltraEdit extensively. 
+•	Tested the HIPAA EDI transactions 834, 837/835, 276/277, 270/271 according to the test requirement. 
+•	Created test data in various EDI and XML standards.
+•	Assessed the manual test coverage and planned and coordinated the creation of automated tests (web UI, REST API, proprietary API).
+•	Responsible for Medical Claims process documentation, performed analysis and implementation in 835 / 837 / 270 / 271 / 277 (X12 Standards) processes of Medical Claims Industry from the Provider/Payer side.
+•	Executed SQL statements to ensure that the data integrity was maintained.  Tested the data flow from end to end and used My SQL server and Toad to run the queries to extract the data from the database.
+Environment: My SQL server, QualityCenter, QTP, HIPAA / EDI, Interactive MS Word, MS Project, MS Excel, UltraEdit, Transaction Manager
+
+
+QA Tester	                                
+Migration of Horizon BCBS enrollment process for Medicare and Medicaid systems to a private vendor, ikaSystems.  Responsible for leading the testing program and test enrollment process for smooth transition.
+•	Acted as a Subject Matter Expert for Medicare and Medicaid enrollment system, ikaSystems.
+•	Validated the Enrollment / Claims letter generating process before Go Live.
+•	Executed automated acceptance testing in BDD style using Cucumber.
+•	Wrote Ruby programming language in Cucumber.
+•	Reviewed the unit test specification prepared by the developers.
+•	Worked with Agile test frameworks (BDD using Cucumber). 
+•	Performed Mobile Testing by validating the applications on mobile OS platform.
+•	Tested the enrollment process using emulators and online applications.
+•	Reviewed the business requirements and coordinated with development and business teams to understand the requirements.
+•	Tested the claim process in both pre-production and production environments.
+•	Involved in manual and automation testing using Selenium.
+•	Prepared test strategy and test plan for UAT.
+•	Conducted UAT of Medicare and Medicaid Enrollment System, on an aggressive schedule.
+
+
+       
+QA Tester	                                
+	Worked as an application analyst for testing the overall system configuration for the state of New York.
+•	Examined business requirements and prepared test plan and test cases accordingly. 
+•	Performed Regression, Integration, E2E, and Audit Testing.
+•	Created batching files in X12 and HTML formats, based on the system requirement and extensively used UltraEdit. 
+•	Used Mercury QualityCenter (ALM) for tracking and reporting the bugs (defects).
+•	Executed and validated the claim process scenario based on the business-required documents.
+•	Attended Requirements and Use Case walkthrough / review meetings and prepared detailed test suites, test cases and test scripts in HP QualityCenter after thorough review of the finalized requirements.
+•	Validated and tested the test cases for HIPPA EDI Transactions 270/271, 276/277, 837/835.
+(Performed HIPAA ICD-9 / ICD-10 testing).
+•	Tested and validated the database tables using SQL queries and stored procedures and performed data validation and data integration.
+•	Executed SQL statements to ensure the data integrity was maintained.
+•	Performed manual Back-End testing on the application by writing complex SQL queries.
+•	Participated with the team for User Acceptance Testing.
+•	Performed positive and negative testing of the application for identification of bugs. 
+•	Involved in testing and reporting of errors of subsequent builds during the process of development and production.
+•	Analyzed Professional and Institutional Claims and created claim level, line, and payment level out of balance reports under the Submitted Billing Provider Number.
+•	Tested HIPAA transactions and code set standards such as (820- Premium Payment for enrolled health plan members, 834 (X12) - Enrollment /Dis-enrollment to a health plan, 835, 837.  
+Environment: My SQL server, QualityCenter, QTP, HIPAA/EDI, Interactive MS Word, MS Project, MS Excel, UltraEdit
+
+
+   
+QA Tester                                                                      	                             
+Cigna 4010 Remediation Project - to enable Cigna 4010 claims processing, billing and enrollment.  Member of a testing team responsible for Functional and Trading Partner testing of 4010 transactions. As part of this project, created 4010 test data, processed 4010 claims into test environment, checked 4010 claims compliance, and worked on fixing compliance errors; sending outbound (835) to trading partners.
+•	Performed all phases of end-to-end testing, including User Acceptance, Functionality, Regression, GUI, Boundary, Negative, System, Unit and Smoke Testing of the application, its interfaces and Client-Server utilities. 
+•	Created and tested scripts for the premium calculations and Claims limits and deductibles (Claims calculations). 
+•	Wrote test cases, utilized SQL scripting to the test database, and executed the scripts on the database. 
+•	Translated the business needs into functional requirements and communicated with the business users on a non-technical level.
+•	Performed Database Testing, along with developers, and coordinated with developers to solve the problems encountered in the application. 
+•	Created, modified and debugged the scripts. 
+•	Tested the EDI 837 interfaces.  Developed test cases and test scripts for all 835, 837 278, 276, 277, Institutional and Professional HIPAA Transactions 
+•	Created test scenarios and matrices for Claim transactions for various projects. 
+•	Created and maintained the Requirements Traceability Matrix (RTM).
+•	Worked with development / technical team members to ensure that the enhancements would meet the defined business requirements.
+•	Analyzed Business Requirements to produce System Requirements for the technical team using MS Visio
+•	Interacted with other teams through walkthroughs, teleconferences and meetings to resolve various issues.
+•	Medical Claims experience in Process Documentation, Analysis and Implementation in 835 / 837 / 270 / 271 / 277 (X12 Standards) processes of Medical Claims Industry from the Provider/Payer side.
+•	Performed SOA / Web Service testing using SOA applications.
+•	Performed Functional and Regression testing using SOA applications.
+•	Analyzed the results to compare expected and actual results. 
+•	Participated in bug and enhancement review meetings, assigning the bugs and enhancement requests to the developers and followed up. 
+•	Documented test cases, test results, and test procedure. 
+•	Tested the Backend with SQL manipulations on the database. 
+•	Performed positive and negative testing of the application to identify bugs. 
+•	Performed testing and reporting of errors of subsequent builds during the process of development and production.
+•	Analyzed Professional and Institutional Claims and created claim level, line, and payment level out of balance Reports under the Submitted Billing Provider Number.
+•	Participated in testing HIPAA Transactions and Code Set Standards such as (820- Premium Payment for enrolled health plan members, 834 (X12) - Enrollment /Dis-enrollment to a health plan, 835, and 837.  
+	Environment: HIPPA 4010, Edi 835, 837 278, 276, 277 UltraEDIT, SQL,UNIX, HTML, Java, XML
+	
+
+
+
+Summary:
+•	8.5 years’ experience as a Test Lead on projects covering Functional, Integration and Regression Testing, Critical functionality Testing, End to End Testing, Pre UAT and UAT Testing, System Testing and Mobile App Testing.
+•	Designed Automation framework using Selenium along with designing and developing automation scripts using Silk Test, QTP / UFT.
+•	Hands on expertise in designing and executing Test Scenarios, Test Cases, Test Planning, Test Strategies. 
+•	Coordinating with the Business, BSA’s and stakeholders in collecting the Business Requirements, perform analysis and conduct meetings and walkthroughs for refining the Requirements (Scope), Deliverables, Timelines and Quality.
+•	Thorough understanding of SDLC and STLC Process for Project Planning and Resource Planning.
+
+
+
+
+•	8.5 years of extensive experience as a Test Lead on projects covering Functional, Integration and Regression Testing, Critical functionality Testing, End to End Testing, Pre UAT and UAT Testing, System Testing and Mobile App Testing.
+•	Good experience in complex Testing of Upstream and Downstream applications using Agile (Scrum), Waterfall and IBM RUP (Rational Unified Process) methodologies for Manual and Automation projects. 
+•	Responsible for Project Estimations, Forecasting, Test Estimations, Resource Estimations, Consolidated Resource Planning, Risk Management and DAR and DRE Metrics Reporting.
+•	Expertise in working on Onshore-Offshore Model with strong rapport building capability with Clients, Business, BSA’s Stakeholders, Development team onsite/offshore and Offshore Teams.
+•	Coordination with the Automation team designing the Automation framework using Selenium to ensure proper and complete Automation Test Coverage.  Also designed and developed automation scripts using Silk Test, QTP / UFT.
+•	Hands on expertise in designing and executing Test Scenarios, Test Cases, Test Planning, Test Strategies. 
+•	Coordinating with the Business, BSA’s and stakeholders in collecting the Business Requirements, perform analysis and conduct meetings and walkthroughs for refining the Requirements (Scope), Deliverables, Timelines and Quality.
+•	Thorough understanding of SDLC and STLC Process for Project Planning and Resource Planning by using Delphi Model, Wideband Delphi Model and Work Breakdown Structure Model.
+•	Experienced Team Lead in completing project tasks with Quality oriented outputs, delivery-focused with the ability to handle team, reviewing Test Cases and Defects and provide review comments.
+•	Good exposure to Defect Management using different Test and Defect Management tools – HP Quality Center 10.0, HP ALM 11.5, JIRA, Rally and JAMA.
+•	Possess good communication and interpersonal skills, committed towards responsibilities, result oriented with strong analytical ability and problem solving capability with a quest and zeal to learn and test new technologies and new automation tools.
+
+DOMAIN EXPERTISE:
+•	Insurance, Healthcare, Public Sector, Mortgage, Home Loans, ecommerce, Sales Force, Mobile Apps, Banking
+•	Business Management Solutions (MS Dynamics CRM, MS Dynamics Axapta, ERP, Inventory Management)
+
+
+
+TECHNICAL SKILLS:
+Automation Tools:                        Silk Test R2 2006 / 13.5, HP QTP 10.0 / UFT 11.5, Selenium, 					Perfecto
+Test Management Tools:           	HP Quality Center 10 / ALM 11.5, Rational Quality Center, Rally, 				               JAMA
+Defect Tracking Tools:                 HP Quality Center 10 / ALM 11.5, Rational Clear Quest, JIRA, Net 				Suite 
+Business Management Tools:    Seibel CRM, Microsoft CRM and Microsoft SharePoint
+Inventory Management Tools:  Microsoft Dynamics Axapta
+RDBMS: 		 	SQL Server 7.0, SQL Server 2008
+
+PROFESSIONAL EXPERIENCE:
+
+
+                                                                                                            
+
+Test Lead
+Responsibilities:
+•	Creating Project Estimations and Test Estimations, Budget Estimations, Consolidated Resource Planning (CRP) and Work Estimations.
+•	Creating the Daily Test Execution (DTR) report, Daily Status Reporting (DSR) report and Metrics reports (DRE and DAR) and share it with the stakeholders.
+•	Designing and Creating Test Plan, Test Strategies and Test Scenarios for the team.
+•	Responsible for the walkthrough of the Test Plan, Scope, FRD and BRD with the stakeholders and the team members.
+•	Review Test Cases and Defects created and logged by the offshore teams and provide review comments to ensure the accuracy and completeness of all test artifacts. 
+•	Conducting Test Cases walkthrough with the BSA team, Development (AD) team (Front End, Back End and the Middleware) and the Test/QA team before the execution and obtain the Sign Off on the Test Cases written.
+•	Responsible to train the Campus Recruit (Graduate Hires) and providing knowledge transfer sessions on Manual Testing concepts, Insurance domain and project specific trainings.
+•	Attending the Daily Scrum calls and Defect Triage meeting with the stakeholders and QA teams.
+•	Review Defects in HP ALM 11.5, logged by the Functional QA team and provide feedback to the team.
+•	Responsible for Mobile Apps testing deliverables, on different OS’s - Android (versions 4.0 till 4.4) and IOS (versions 6.1.0 till 7.1.2) on different Handsets and various Tablets (Samsung and Apple). 
+•	Owned the responsibility of the automation team, automating and delivering the Mobile Apps using Egg Plant and Perfecto tools per the delivery schedule.
+•	Testing of the REST Services using SOAP UI Pro for Mobile Apps developed.
+Environment: Java, DOT.NET, Rally, HP QC 10.0 & 11.5, IOS 6.1.0 – 7.1.2, Android 4.0 – 4.4, Egg Plant, Perfecto, REST Services, SOAP UI Pro, IBM ThinkPad, HP Laptops, Windows Server 2003, and IBM Serves
+
+           				 
+
+Consultant
+Responsibilities: 
+•	Took the ownership of organizing defect prioritization meetings, tracked and monitored Critical and High priority defects and liaison with development team to help to resolve technical issues that impacted testing.
+•	Responsible in designing the Automation Test Plan, Test Estimations, Test cases and Test Scripts.
+•	Responsible for defining the naming conventions, created object maps and test scripts using Silk Test 13.5/Visual Test for Business Users.
+•	Coordinate with the stakeholders on status reporting of automation Test script execution, including statistics of manual Test Case execution, defect logging and defects re-testing using Rational Quality Manager (RQM).
+•	Creation of Knowledge Transfer documents using PowerPoint presentation and to document business knowledge of the application and project process.
+•	Perform Peer to Peer reviews, monitor Test cases creation and provide feedback to the team.
+Environment: Java, DOT.NET, Silk Test 13.5 Visual Test for Business Users, JIRA, JAMA, HP QC 10.0,RQM, Microsoft PowerPoint, Dell Laptops and Dell Desktops, Windows Server 2003.
+
+
+Sr. Quality Analyst - I
+Responsibilities: 
+•	Responsible for designing Strategies, Test Scenarios and Test cases for social networking website.
+•	Attend team meetings and client calls and Monitoring defect management processes and defect meetings.
+•	Understanding the Business requirement of the Grace note applications and create Manual Test cases to verify the conversion of the phoneme is displayed as expected.
+•	Manage the Test Planning and Test execution of End to End functional Mobile App Test cases, developed and executed on Android OS Framework.
+•	Responsible for Test Scripts, Test Data collection and analysis according to the Project Plan and Project Schedule.
+•	Owned the process of monitoring the best practices and procedures.
+Environment: Java, DOT.NET, AJAX, Microsoft Team Foundation Server for Testers, Microsoft Excel, Microsoft PowerPoint, Galileo Eclipse, Android OS, Beyond, Dell Desktops, Windows Server 2003.
+
+
+
+Software Engineer - Testing
+Roles and Responsibilities: 
+•	Travelled Onsite to Ocala, Florida US at client location to discuss the Testing Approach, the QA Process and to get the Knowledge Transfer on TB&W internal applications.
+•	Responsible for coordination of the Strategy Planning, Testing efforts, Test deliverables, Status reporting and Defect management with the stakeholders and the management.
+•	Coordination of Client’s Product Requirements and Software Design with QA team in offshore.
+•	Conducted weekly training sessions for new team members.
+•	Test critical defects, reproduce them and coordinate with developers (product team).
+•	Track the release of bug fixes (defects), prioritize defect re-testing and close the defects.
+Environment: DOT.NET, AJAX, Microsoft Team Foundation Server for Testers, JIRA, Microsoft Excel, Microsoft PowerPoint, Dell Desktops, Windows Server 2003.
+
+Feb. 2007 –Aug, 2008
+Omnitech Info Solutions		    
+Industry: Public Sector, Ecommerce, Business Management Solutions (MS Dynamics CRM 4.0, MS Dynamics Axapta 4.0, ERP – Inventory Management)
+Client Name – NCR, Teradata, Ignify
+Software Test Engineer
+Roles and Responsibilities:
+•	Analyzing Business requirements using Functional Requirements Specifications, Business Requirements Specifications and Technical Design Documents and develop Test Conditions, Test cases and Test scripts using HP Quality Center 10.0 and execute automated scripts using HP QTP / UFT.
+•	Responsible for refining the scope of the Business Scenarios, Product Requirements and Software Design in review meetings with Business System Analysts. 
+•	Responsible for developing DATA DRIVEN FRAMEWORK which includes: writing Functions, creating classes, extending classes and also extending the existing properties of the objects for Testing of different Cornerstone applications using manual testing techniques and automated tool Silk Test R2 2006.
+•	Creating Test scripts using QTP / UFT and also wrote functions for generating the response time of each and every activity happening these applications and data getting generated from the backend to the applications.
+•	Responsible in Functional Testing of different Business scenarios especially: Sales, Marketing, Services, Purchase, Order Processing, Invoice, General Ledger, Cash in Bank and Cash at Hand & Transportation (Shipment module), Sales product definition, outside processing & Freight processing.
+•	Monitor and control the testing efforts including development of Test Scenarios, create/update Test cases, Identify & build Test data, Test Execution, Defects reporting/verification, defects management (using CBTX  tool).
+Environment: JAVA,DOT.NET, AJAX, Silk Test R2 2006, HP QTP 6.5, IBM Rational Robot, Bugzilla, Microsoft Excel, Microsoft PowerPoint, Dell Desktops, Windows Server 2003.
+
+
+Summary of Skills / Fit:
+•	ISEB CertifiedTest Analyst with 7+ years of professional experience in software testing and Quality Assurance, including 4 years of expertice in manual and automation testing of both mobile Native and Web applications.
+•	Experience in testing Finance, Health Care, Telecommunication and Geospatial domains.
+•	Extensive experience on testing native mobile applications on real mobile devices, tablets, simulators and emulators.
+•	Strong knowledge about Health care IT domain and worked in Enrollment, Clinical and patient related information channels.
+•	Strong experience in testing various integration portals in healthcare domain.
+•	Expertise in testing and creating test data for Web based/GUI applications and Mobile native applications for both android and ios platforms.
+•	Very good understanding of the requirement and good communication skills
+ 
+
+
+SUMMARY
+•	ISEB CertifiedTest Analyst with 7+ years of professional experience in software testing and Quality Assurance, including 4 years of expertice in manual and automation testing of both mobile Native and Web applications.
+•	Experience in testing Finance, Health Care, Telecommunication and Geospatial domains.
+•	Extensive experience on testing native mobile applications on real mobile devices, tablets, simulators and emulators.
+•	Experience in coordinating and mentoring offshore and onsite QA.
+•	Strong knowledge about Health care IT domain and worked in Enrollment, Clinical and patient related information channels.
+•	Strong experience in testing various integration portals in healthcare domain.
+•	Experience in testing products developed practicing Agile (Scrum and BDD) methodologies.
+•	Well versed in iPod, iPhone, iPad App’s, Android App’s and Amazon kindle App's testing and Apple watch and Google glasses.
+•	Hands on experience in using Crashlytics kit from FABRIC and Google play developer console and Google Analytics for Analysis and Testing.
+•	Experienced in using mobile automation frameworks for Native Apps(IOS and Android)and Web Based Applications.
+•	Expertise in testing and creating test data for Web based/GUI applications and Mobile native applications for both android and ios platforms.
+•	Performed exploratory testing, Usability and functional testing of Mobile Native apps (based on iOS, Android, & Windows) and Accreditation/Compliance testing.
+•	Excellent Skill in manual testing and automation tools such as Selenium Web Driver, and QTP in testing ERP Web, and Client/Server Applications.
+•	Experience in testing connected devices such as Apple and Samsung televisions.
+•	Experience in Testing Restful API's using SOAP UI PRO,JMETER and DHC - REST/HTTP API Client.
+•	Involved in Cross platform & Cross browsing testing using–Windows XP,Vista,Win 7,Win 8,MAC and Browsers-Firefox,Chrome,IE 8,IE 9,Safari.
+•	Experience in writing Gherkin feature-files and implementing step definitions using Java.
+•	Translating acceptance criteria into automated tests using Cucumber in a BDD methodology.
+•	Used Jenkins as a Continuous Integration (CI) Tool to execute Regression and Smoke suites on different platforms and different browsers.
+•	Extensive Testing knowledge in the business processes in SAP ECC 6.0 modules FI/CO, HR, SD, MM and BI.
+•	Worked on HP ALM and Quality center, HP UFT an HP QTP JIRA and ZEPHYR for Defect Tracking, organizing, managing and Test planning.
+•	Experience in Enhancement, Upgrade & post Go Live implementation support.
+•	Knowledge of Test Driven Development (TDD) in development of test automation frame works for testing mobile applications.
+•	Exposure to all stages of Software Development Life Cycle(SDLC), Agile methodology and Software Test Life Cycle(STLC).
+•	Experience in SAP Enhancement, Upgrade & post Go Live implementation support Testing.
+•	Extensive experience in Functional/Non-functional testing,Smoke, Sanity and System Testing, User Acceptance Testing(UAT),Authorization testing and Regression Testing of Client/Server, web applications, Project and Product testing.
+•	Extensive experience in coordinating testing effort, responsible for test deliverables, status reporting to management, issue escalations-in preparing estimations and Metrics for Evaluating Testing.
+•	Excellent communication skills, fast learning capabilities, achieved good career growth and successfully implemented new testing concepts.
+•	In-depth experience and ability to handle multiple tasks independently as well as collaboratively with team members testing complex projects.
+
+TECHNICAL SKILLS
+Mobile Automation Tools	Appium, Calabash, UIAutomator
+Web Automation Tools	Selenium RC & Web Driver (Java), Cucumber, Soap UI
+Operating Systems	UNIX, Dos, Win 7/NT/2000/XP/Vista
+Programming Language	Ruby, JAVA, SQL, Visual Basic Script
+Test Management Tools	Test Director, HP Quality Centre, ZEPHYR
+Version Control	SVN, MAVEN, CVS, GITHUB
+Certifications	International Software Testing Qualifications Board (ISTQB) - Advanced Functional Tester and Foundation
+
+
+
+
+Responsibilities
+•	Involved sprint planning, daily stand up’s and retrospective as per agile process.
+•	Paring with developer, BA to articulate the test scenario’s and test coverage.
+•	Identified test scenarios and designed test cases based on User stories and acceptance criteria.
+•	Designed & executed automation test scripts.
+•	Validated end to end mobile user scenario’s on simulators and real devices.
+•	Verified the cached data packets during mobile connectivity conditions such as No/Medium/Full Wi-Fi.
+•	Performed End to End testing of same app across different mobile devices (IPhone, IPod, IPAD, HP, Samsung and Panasonic tablets and amazon kindle) connecting to the server parallel at the same time.
+•	Performed Cross platform testing and Cross browser testing across iOS and Android.
+•	Involved in setting up automation framework with Appium JUnit & Maven in Java.
+•	Created cucumber scenario feature files along with step definitions for user story’s acceptance criteria.
+•	Integrating the automation scripts into CI with the help of Maven and jenkins.
+•	Testing all the RESTFULL API’s related to mobile application using SOAP UI, JMETER and DHC - REST/HTTP API Client.
+•	Hands on experience in using crashlytics in identifying the specific line of code which lead to crash.
+•	Validated back-end logs in Audit log when different mobile devices are generating operations.
+•	Responsible for test data preparation, set up test environment, Test Harness for the system.
+•	Ensured that all the stories have met the definition of done in each sprint cycle.
+•	Performed Regression testing to verify that delivered application has not adversely affected processes.
+•	Used JIRA for defect logging and tracking the issues.
+•	Maintained all the test results in HP ALM.
+
+
+
+Responsibilities
+•	Involved in daily Scrum meetings, Retrospective meetings on the on-going Sprints & respective Stories.
+•	Writing test cases and creating test data for enrollment and patient related information.
+•	Validating all the integration portals persisting the patient realated information. 
+•	Verifing and validating all the data and feeding them to the repective doctors profile.
+•	Designed & Executed Automation Test scripts using Java as a programming language.
+•	Using Selenium Webdriver for Web Automation and iWebdriver, Android driver, Appium, for Mobile Automation.
+•	Tested both Mobile Browser and Native applications.
+•	Setting the automation frameworks (for both Web & Mobile) using Selenium and designed the scripts from the scratch.
+•	Used jUnit as a Testing framework.
+•	Designed the scripts for XML file verification using automation scripts.
+•	Experience in Testing the applications developed in XML, HTML.
+•	Designed the scripts for reading JSON parameter verifications.
+•	Involved in Smoke, Functional, Regression, Integration, System Testing and supported UAT Testing by providing/setting up the data in Oracle database.
+•	Tested Mobile Operating Systems – iOS, Android.
+•	Used Jenkins for Testing in Continuation Integration Environment.
+•	Experience in using SoapUI Pro for web service testing.
+•	Designed & Executed the jMeter Virtual user scripts.
+•	Identifying and isolating perand isolating performance bottlenecks,defects and problems and providing recommendations/assistance to receify the issues.
+•	Created the performance benchmark for the product and compared test results of new build with benchmark results using jMeter.
+•	Analysed test results with Architect, Product owner, Development team and Database teams.
+•	Co-ordinated with Product owners,Business teams Development team on various requirements & on-going testing activities.
+•	Involved in Defect Management.
+•	Used GITHUB for version control system.
+
+
+
+Responsibilities
+•	Involved in daily Scrum meetings, Retrospective meetings on the on-going Sprints & respective Stories.
+•	Designed & executed automation test scripts using Ruby as a programming language.
+•	Setting up the Mobile Automation Framework and designed scripts from scratch.
+•	Using Calabash, Cucumber for Mobile Automation Testing.
+•	Tested different versions of iOS and Android devices (iphone, iPad, Samsung, HTC)
+•	Experience with Xcode and Android studio.
+•	Implemented 60% Automation Test Coverage.
+•	Designed the automation scripts for Regression and Smoke Test suites and executed them using Jenkins on different devices at a time.
+•	Tested most of the iOS and Android versions on different devices.
+•	Verified the functionalities such as (wifi, non-wifi, download titles, out of locale).
+•	Used Jenkins for Testing in Continuation Integration Environment.
+•	Used Github for Code repository.
+•	Co-ordinated with Product owners, Business teams, Designers, Development team on various requirements & on-going testing activities.
+•	Involved in Defect Management.
+•	Used GITHUB for version control system.
+
+
+Responsibilities
+•	Adding up test cases (java based web driver) to the existing framework and running them in continuous integration server (Jenkins).
+•	Analysing the test reports and performing maintenance on the existing automated test cases using eclipse and java.
+•	Attending sprint planning meetings provide estimates and providing feed backs in retrospectives.
+•	Perform tests for workflows, queues, calculated fields, customization, plug-ins, dependent pick lists, security roles, tabs, field validation Tests.
+•	Performing tests for Functional/system, Integration and User Acceptance Testing.
+•	Preparing mock Data and Emulating End User Environments to preform UAT Testing.
+•	Testing Business requirements for Tax and VAT calculations.
+•	Tracking and reporting bugs on Jira. Releasing the User Stories/Bugs into UAT after performing.
+•	Create and maintain Selenium/Webdriver bases Java projects/ framework to handle Sanity and Regression tests for sprints.
+•	Evaluating automated test reports based on test runs in Jenkins.
+•	Co-ordinate with Product owners, Business teams Development team on various requirements & on-going testing activities.
+•	Designed and Executed Manual Test scripts for various Sprints.
+
+
+
+Responsibilities:
+•	Executed the test cases manually.
+•	Analyzed and Reported Defects through QC.
+•	Involved in all stages of testing process functional testing, regression testing, and integration testing, and User Acceptance Testing (UAT).
+•	Execution of Test Case manually to verity actual results against expected results.
+•	Responsible for manual and automated testing in FICO, SD,MM, HR. And developed scripts to load master data into different environments (Test box to PRD box).
+•	Maintained complete mapping between requirements, test cases, and defects, thereby giving the tester end to end traceability.
+•	Maintenance of regression QTP scripts and optimizing the performance of scripts as well as determining the poor response times of Transactions and custom programmes.
+•	Developed Testing documentation for the User Acceptance Testing (UAT).
+
