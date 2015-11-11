@@ -1,0 +1,27 @@
+package TestPackage;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxBinary;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class TestingLog4j {
+
+	Logger logger;
+	
+	
+	@Test
+	public void testLogs(){
+		
+		logger = Logger.getLogger("devpinoyLogger");
+		
+		
+		logger.debug("Staring od Selenium tests");
+		WebDriver driver = new FirefoxDriver();
+		logger.debug("Mozilla browser opens");
+		driver.get("http:\\google.com");
+		logger.debug("Naivage to Google");
+		
+	}
+}
