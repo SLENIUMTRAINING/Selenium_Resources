@@ -1,0 +1,32 @@
+install git
+install git plugin and github plugin
+auto refresh
+git path in manage settings
+
+git bash
+pwd
+mkdir .ssh
+ssh -keygen -t rsa -C "yourmailaddress@somemail.com"
+ssh -V git@github.com
+
+copy .ssh folder to Git
+
+open command prompt and move to Git bin
+ssh.exe -T git@github.com
+
+Create new repo
+
+Goto Git bash and open project location
+
+cd ../
+cd ../
+cd ../
+
+Git init
+Git add
+Git commit -m "first commit"
+Git remote add origin https://github.com/YourAccount/Your.git
+
+cd D:\\GitJenkinProject
+
+Make a new project add repo path and ant file
