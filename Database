@@ -6,10 +6,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SeleniumDatabaseTesting {
 public static void main(String[] args) {
 //Testdata
-String email = "vivek@rediffmail.com";
-String zipcode = "222222";
-String firstname= "Lucky";
-String lastname = "Singh";
+String email = "seleniyum@gmail.com";
+String zipcode = "22203";
+String firstname= "Rakesh";
+String lastname = "Patel";
 /* //Input testdata using Selenium
 WebDriver driver = new FirefoxDriver();
 driver.get("http://mailing.dollartree.com/user/signup.jsp");
