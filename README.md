@@ -63,7 +63,7 @@ Link Jar files -except for SRCS file add all of them.
 Ctrl + Alt = click on driver. or webdriver. Attach Source - External Location-External File - select SRCS source code. 
 Or - Test Project RightClick- Properties - Selenium JAR - Find Attach source - click on edit - External Jar and give path to SRCS
 
-#----------------------------------------Review JavaDocs - for all classes and all  packages review. 
+#Review JavaDocs - for all classes and all  packages review. 
 
 C#ore Java Tutorial : http://www.dineshonjava.com/2013/01/core-java-baby-step-to-be-best-java-ian.html#.Vi5Yhyu79SA
 
@@ -104,7 +104,7 @@ Finding Elements
      
      }
  }
-#-----------------------------------xpath for dynamic examples ---------------------------------------
+#---------xpath for dynamic examples -------
 
 driver.findElement(By.xpath("//div[@id='leftcol']/a[text()='Learn AngularJS']")).click();
 driver.findElement(By.xpath("//a[@id='gb_70'])).click();
