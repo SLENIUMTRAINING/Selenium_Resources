@@ -1,0 +1,7 @@
+Xpath Absolute
+Xpath Relative
+
+Usage of Selenium IDE for Xpaths. 
+Xpath Attributes
+
+//input[@id='user_password' and @placeholder='Password'] -- slideshare.net
