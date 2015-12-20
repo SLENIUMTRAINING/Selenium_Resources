@@ -1,18 +1,17 @@
-package iebrowse;
+package chrome;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
-public class LaunchIE {
+public class ChromeBrowse {
 
 	public static void main(String[] args) {
-		
-		System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")+"\\lib\\IEDriverServer.exe");	
-		WebDriver iEdriver = new InternetExplorerDriver();
-		iEdriver.get("https://google.com");
-		iEdriver.manage().window().maximize();
-		
-		//iEdriver.close();
+
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\BinalAmit\\Desktop\\eclipse\\Workspace\\ChromeBrowser\\lib\\chromedriver.exe");
+		WebDriver chrome = new ChromeDriver();
+		chrome.get("https://www.google.com");
+		chrome.manage().window().maximize();
+
 	}
 
 }
