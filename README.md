@@ -104,9 +104,21 @@ Finding Elements
      
      }
  }
+ 
+#----------Xpath Examples-------------
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[2]")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']/preceding-sibling::a")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']/following-sibling::a")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn CSS']/preceding-sibling::a[2]")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']/parent::div/parent::div/div[2]/div[2]/a")).click();
+//*[@id='sidemenu']/a[text()='Learn HTML']/parent::nav/preceding-sibling::nav[5]/div/div/a[text()='Learn HTML']
+
+#------------Xpath by Locators----------------------
+
 #---------xpath for dynamic examples -------
 
-driver.findElement(By.xpath("//div[@id='leftcol']/a[text()='Learn AngularJS']")).click();
+driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn AngularJS']")).click();
 driver.findElement(By.xpath("//a[@id='gb_70'])).click();
 driver.findElement(By.xpath("//a[starts-with(@id,'gb_7')]")).click();
 driver.findElement(By.xpath("//a[contains(@id,'b_7')]")).click();
@@ -116,3 +128,5 @@ driver.findElement(By.xpath("//div[@id='leftcol']/a[contains(text(),'rn Boots')]
 driver.findElement(By.xpath("(//XPATH)[last()]")).click();
 driver.findElement(By.xpath("(//XPATH)[last()-1]")).click();
 driver.findElement(By.xpath("(//XPATH)[position()='1']")).click();
+
+#---------------CSS Selectors-----------------------------
