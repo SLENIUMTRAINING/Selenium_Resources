@@ -106,6 +106,11 @@ Finding Elements
  }
  
 #----------Xpath Examples-------------
+Absolute Xpath : 
+html/body/div[4]/div[1]/div[1]/a[1]
+Relative Xpath : 
+.//a[@href='/html/default.asp']
+
 driver.findElement(By.xpath("//*[@id='sidemenu']/a[2]")).click();
 driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']")).click();
 driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']/preceding-sibling::a")).click();
@@ -114,7 +119,13 @@ driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn CSS']/preceding
 driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn HTML']/parent::div/parent::div/div[2]/div[2]/a")).click();
 //*[@id='sidemenu']/a[text()='Learn HTML']/parent::nav/preceding-sibling::nav[5]/div/div/a[text()='Learn HTML']
 
-#------------Xpath by Locators----------------------
+#------------Element by Locators----------------------
+By.className()
+By.id()
+By.linkText()
+By.name()
+By.partialLinkText()
+By.tagName()
 
 #---------xpath for dynamic examples -------
 
@@ -122,11 +133,25 @@ driver.findElement(By.xpath("//*[@id='sidemenu']/a[text()='Learn AngularJS']")).
 driver.findElement(By.xpath("//a[@id='gb_70'])).click();
 driver.findElement(By.xpath("//a[starts-with(@id,'gb_7')]")).click();
 driver.findElement(By.xpath("//a[contains(@id,'b_7')]")).click();
-driver.findElement(By.xpath("//div[@id='leftcol']/a[starts-with(text(),'Learn Boots')]")).click();
-driver.findElement(By.xpath("//div[@id='leftcol']/a[contains(text(),'rn Boots')]")).click();
+driver.findElement(By.xpath("//div[@id='sidemenu']/a[starts-with(text(),'Learn Boots')]")).click();
+driver.findElement(By.xpath("//div[@id='sidemenu']/a[contains(text(),'rn Boots')]")).click();
 
 driver.findElement(By.xpath("(//XPATH)[last()]")).click();
 driver.findElement(By.xpath("(//XPATH)[last()-1]")).click();
 driver.findElement(By.xpath("(//XPATH)[position()='1']")).click();
 
-#---------------CSS Selectors-----------------------------
+#---------------CSS Selectors----------------
+//CSS Selector may be faster then Xpath. 
+//Coding is little faster - easy to identify
+//Xpaths are easy to create, traverse and track
+//CSS selector is top to bottom only
+//xpath=//input[@id='email']
+//css - input[id=email]
+By.cssSelector()
+css - (input[id=email] [class=inputtext])
+#email  - Shortcut for id
+input[id^='ema']
+input[id*='ail']
+body[class='homepage'] div div form div input[id='q'] = seleniumhq search. 
+
+
