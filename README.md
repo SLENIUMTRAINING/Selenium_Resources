@@ -154,4 +154,6 @@ input[id^='ema']
 input[id*='ail']
 body[class='homepage'] div div form div input[id='q'] = seleniumhq search. 
 
-
+# -------Dynamic Xpath Example------------------
+//*[starts-with(@id,'yui_3_12_0_1_1430')]/a
+//*[contains(@id,'ui_3_12_0_1_1430')]/a
