@@ -11,7 +11,8 @@ public static void main(String[] args) {
 
              WebDriver driver = new FirefoxDriver();
              driver.get("http://www.priceline.com/");
-
+             //driver.navigate().to("http://www.priceline.com/");
+            //Thread.sleep(5000);
              driver.findElement(By.xpath("//*[@id='tab-flights']")).click();
 
              List <WebElement> rb = driver.findElements(By.xpath("//*[@type='radio']"));
